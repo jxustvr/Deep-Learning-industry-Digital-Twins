@@ -1,11 +1,35 @@
-### Deep-Learning-industry-Digital-Twins
+# 论文资源存放地址
+#### 根据论文的方向和论文类型进行划分
 
+# 目录
 
+-[数字孪生](#szls)
 
- -[模型与数据双驱动的锂电池状态精准估计_陈清炀.pdf][paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9900606/_.pdf)
+   -<sub>[中文](#szlsc)<sub/>
 
--[锂离子电池状态估计机器学习方法综述_谢奕展.pdf][paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9900614/_.pdf)
+   -<sub>[英文](#szlse)<sub/>
 
--[基于LSTM的锂电池储能装置SOC与SOH联合预测_刘运鑫.pdf] [paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9900615/LSTM.SOC.SOH._.pdf)
+-[虚拟现实](#xnxs)
 
+  -<sub>[中文](#xnxsc)<sub/>
 
+  -<sub>[英文](#xnxse)<sub/>
+
+-[深度学习](#sdxx)
+
+  -<sub>[中文](#sdxxc)<sub/>
+
+  -<sub>[英文](#sdxxe)<sub/>
+
+-[锂电池技术](#ldcjs)
+
+  -<sub>[中文](#ldcjsc)<sub/>
+
+  -<sub>[英文](#ldcjse)<sub/>
+ 
+ 
+ < a name ="szls" />
+ 
+ 
+ ## 数字孪生
+ 
