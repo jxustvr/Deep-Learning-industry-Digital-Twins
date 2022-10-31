@@ -61,3 +61,51 @@
 <a name="xnxs"/>
   
 ## 虚拟现实
+  
+  <a name="xnxsc"/>
+中文
+  
+  
+  
+  
+   <a name="xnxse"/>
+英文
+  
+  
+  
+  
+ <a name="sdxx"/> 
+  
+## 深度学习
+  <a name="sdxxc"/> 
+  中文
+  
+  
+  
+  
+  
+  <a name="sdxxe"/> 
+  英文
+  
+  
+  
+  
+  
+  
+  
+  <a name="ldcjs"/> 
+  
+ ## 锂电池技术
+  <a name="ldcjsc"/> 
+  中文
+  
+  
+  
+  
+   <a name="ldcjse"/>
+   英文
+  
+  
+  
+  
+  
