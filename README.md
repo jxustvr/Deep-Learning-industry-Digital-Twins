@@ -40,9 +40,24 @@
 
 1.  **[基于Digital+Twin的数控机床预测性维护关键技术研究.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901224/Digital%2BTwin.pdf)
  
+1.  **[基于数字孪生的铣刀状态实时监控研究_刘明浩(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901308/_.1.pdf)
+ 
+1.  **[油浸式电力变压器匝间故障早期的电热特性研究_张立静(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901315/_.1.pdf)
 
-1.  ** 
+1.  **[重大装备形性一体化数字孪生关键技术_宋学官.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901316/_.pdf)
+  
+1.  **[基于数字孪生的飞机起落架健康管理技术应用_郭丞皓(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901325/_.1.pdf)
 
-1.  **
+1.  **  [航天器控制系统智能健康管理技术发展综述_袁利(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901330/_.1.pdf)
 
-1.  ** 
+1.  **[永磁磁浮空轨系统的研究与设计_杨杰.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901333/_.pdf)
+
+ <a name="szlse"/>
+  英文
+  
+  
+  
+  
+<a name="xnxs"/>
+  
+## 虚拟现实
