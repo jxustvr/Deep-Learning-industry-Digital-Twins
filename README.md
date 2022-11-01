@@ -32,6 +32,10 @@
   
 ## 数字孪生
   
+ <a name="szlsc"/>
+  
+ 中文
+  
  
 1.  **[基于数字孪生的铣刀状态实时监控研究_刘明浩(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901308/_.1.pdf)
  
