@@ -329,7 +329,8 @@
   1.  **[一种基于模态分解和机器学习的锂电池寿命预测方法_肖浩逸.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907088/_.pdf)
 
   
-  1.  **
+  1.  **[机器学习在固体氧化物燃料电...)电还原催化剂中的研究进展_许建兵.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907153/_.pdf)
+
   
   
    <a name="ldcjse"/>
