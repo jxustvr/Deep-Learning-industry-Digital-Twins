@@ -23,22 +23,7 @@
 
 -[锂电池技术](#ldcjs)
 
-  -<sub>[中文](#ldcjsc)<sub/>
-
-  -<sub>[英文](#ldcjse)<sub/>
- 
- 
- <a name="szls"/> 
- 
- ## 数字孪生
-  <a name="szlsc"/>
-  中文
- 
-1.  **[基于数字孪生的高端装备智能运维研究现状与展望_高士根.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901193/_.pdf)
-
-1.  **[基于数字孪生的力能控制式压力机虚拟调试_陆新时__(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901205/_.__.1.pdf)
-
-1.  **[基于Digital+Twin的数控机床预测性维护关键技术研究.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901224/Digital%2BTwin.pdf)
+  -<sub>[中文](#ldcjsc)<sub/>hub.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901224/Digital%2BTwin.pdf)
  
 1.  **[基于数字孪生的铣刀状态实时监控研究_刘明浩(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901308/_.1.pdf)
  
@@ -84,8 +69,40 @@
   
 1.  **[数字孪生演进模型及其在智能制造中的应用_江海凡.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901477/_.pdf)
   
+ 1.  **[碱性电解槽制氢设备数字孪生体构建及应用_江悦.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906945/_.pdf)
+
+ 
+  1.  **[油浸式电力变压器匝间故障早期的电热特性研究_张立静.pdf]**[paper]**[paper]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906947/_.pdf)
 
   
+   1.  **[腰椎数字孪生实时监测_-_xiwang_he.pdf]**[paper]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906960/_-_xiwang_he.pdf)
+
+   
+    1.  **[数字孪生在航空发动机燃烧室设计阶段的应用与展望_任祝寅.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906957/_.pdf)
+
+  1.  **[超燃冲压发动机仿真_从数值飞行到数智飞行_孙明波.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906962/_._.pdf)
+
+  
+  1.  **[工业锅炉数字化设计与数字孪生综述_程浙武 (3).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906963/_.3.pdf)
+
+    
+    
+   1.  **[航空发动机主燃烧室动态燃烧研究现状及关键技术分析_王波.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906964/_.pdf)
+
+   
+   1.  **[铝颗粒粉尘对冲火焰数值模拟研究_张家瑞.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906965/_.pdf)
+
+      
+     1.  **[三维、动态、实时数字化锅炉技术发展探讨_郑树.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906966/_.pdf)
+
+       
+      1.  **[数字孪生在航空发动机燃烧室设计阶段的应用与展望_任祝寅.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906968/_.pdf)
+
+        
+       1.  **
+         
+      1.  **
+          
  <a name="szlse"/>
   英文
 
@@ -116,12 +133,33 @@
   1.  **[6c897466-e8fc-414b-a81a-8c9e2f914d60_17632_-_zhiwei_shen.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901510/6c897466-e8fc-414b-a81a-8c9e2f914d60_17632_-_zhiwei_shen.pdf)
  
   
-  1.  **  
-  
-  1.  **  
-  
+  1.  **[Intelligentdigital twins and the development and management of complex systems.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906914/Intelligentdigital.twins.and.the.development.and.management.of.complex.systems.pdf)
  
   
+  1.  **[深度学习增强的数字孪生，用于可视化焊缝生长监测和渗透控制.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906915/default.pdf)
+
+ 1.  **[가상현실에서효과적인3차원영상연출을위한연구언리얼엔진의영상제작을이용한인터렉티브쇼트중심으로.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906958/3.pdf)
+  
+1.  **[Combustion machine learning Principles, progress and prospects.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906975/Combustion.machine.learning.Principles.progress.and.prospects.pdf)
+ 
+1.  **[Co-optimized machine-learned manifold models for large eddy simulation of turbulent combustion.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906979/Co-optimized.machine-learned.manifold.models.for.large.eddy.simulation.of.turbulent.combustion.pdf)
+
+
+1.  **[Deep learning for presumed probability density function models.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906982/Deep.learning.for.presumed.probability.density.function.models.pdf)
+
+
+1.  **[Machine learning for combustion.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906989/Machine.learning.for.combustion.pdf)
+
+
+1.  **[Large eddy simulation of spray combustion using flamelet generated manifolds combined with artificial neural networks.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906991/Large.eddy.simulation.of.spray.combustion.using.flamelet.generated.manifolds.combined.with.artificial.neural.networks.pdf)
+
+1.  **[Application of machine learning for filtered density function closure in MILD.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906996/Application.of.machine.learning.for.filtered.density.function.closure.in.MILD.pdf)
+
+
+1.  **[Detection of precursors of combustion instability using convolutional recurrent neural networks.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906990/Detection.of.precursors.of.combustion.instability.using.convolutional.recurrent.neural.networks.pdf)
+
+
+1.  **
   
   
 <a name="xnxs"/>
@@ -131,7 +169,7 @@
   <a name="xnxsc"/>
 中文
   
-1.  **  [AR_VR融合驱动的综采工...智能监控关键技术研究与试验_王学文.pdf](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901459/AR_VR._.pdf)
+1.  **  [AR_VR融合驱动的综采工...智能监控关键技术研究与试验_王学文.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901459/AR_VR._.pdf)
 
   
   
@@ -147,7 +185,44 @@
 ## 深度学习
   <a name="sdxxc"/> 
   中文
-  
+1.  **[采用深度迁移学习与自适应加权的滚动轴承故障诊断_贾峰.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906993/_.pdf)
+
+
+1.  **[基于ISCNN-LightGBM的轴承故障诊断_张思源.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906997/ISCNN-LightGBM._.pdf)
+
+
+1.  **[基于多尺度注意力深度强化学...络的行星齿轮箱智能诊断方法_王辉.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906992/_.pdf)
+
+
+1.  **[基于卷积双向长短期网络的轴承故障尺寸估计_刘西洋.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906988/_.pdf)
+
+
+1.  **[基于深度学习和多域决策融合的轴承故障智能诊断技术_林诗麒.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906994/_.pdf)
+
+
+1.  **[基于主动生成式过采样和DSN的轴承故障诊断_李慧芳.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906998/DSN._.pdf)
+
+
+1.  **[面向轴承智能诊断的多领域深度对抗迁移网络_贾峰.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906995/_.pdf)
+
+
+1.  **[数据驱动的工业智能：现状与展望_任磊.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906999/_.pdf)
+
+
+1.  **
+
+1.  **
+
+1.  **
+
+1.  **
+
+1.  **
+
+1.  **
+
+1.  **
+
   
   
   
