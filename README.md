@@ -23,7 +23,7 @@
 
 -[锂电池技术](#ldcjs)
 
-  -<sub>[中文](#ldcjsc)<sub/>hub.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901224/Digital%2BTwin.pdf)
+  -<sub>[中文](#ldcjsc)<sub/>
  
 1.  **[基于数字孪生的铣刀状态实时监控研究_刘明浩(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901308/_.1.pdf)
  
@@ -75,10 +75,8 @@
   1.  **[油浸式电力变压器匝间故障早期的电热特性研究_张立静.pdf]**[paper]**[paper]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906947/_.pdf)
 
   
-   1.  **[腰椎数字孪生实时监测_-_xiwang_he.pdf]**[paper]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906960/_-_xiwang_he.pdf)
+   1.  **[腰椎数字孪生实时监测_-_xiwang_he.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906960/_-_xiwang_he.pdf)
 
-   
-    1.  **[数字孪生在航空发动机燃烧室设计阶段的应用与展望_任祝寅.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906957/_.pdf)
 
   1.  **[超燃冲压发动机仿真_从数值飞行到数智飞行_孙明波.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906962/_._.pdf)
 
@@ -86,22 +84,18 @@
   1.  **[工业锅炉数字化设计与数字孪生综述_程浙武 (3).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906963/_.3.pdf)
 
     
-    
-   1.  **[航空发动机主燃烧室动态燃烧研究现状及关键技术分析_王波.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906964/_.pdf)
+
 
    
    1.  **[铝颗粒粉尘对冲火焰数值模拟研究_张家瑞.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906965/_.pdf)
 
-      
-     1.  **[三维、动态、实时数字化锅炉技术发展探讨_郑树.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906966/_.pdf)
+   1.  **[三维、动态、实时数字化锅炉技术发展探讨_郑树.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906966/_.pdf)
 
        
-      1.  **[数字孪生在航空发动机燃烧室设计阶段的应用与展望_任祝寅.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906968/_.pdf)
+  1.  **[数字孪生在航空发动机燃烧室设计阶段的应用与展望_任祝寅.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906968/_.pdf)
 
-        
-       1.  **
-         
-      1.  **
+ 1.  **[航空发动机主燃烧室动态燃烧研究现状及关键技术分析_王波.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907035/_.pdf)        
+     
           
  <a name="szlse"/>
   英文
@@ -169,7 +163,7 @@
   <a name="xnxsc"/>
 中文
   
-1.  **  [AR_VR融合驱动的综采工...智能监控关键技术研究与试验_王学文.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901459/AR_VR._.pdf)
+1.  **[AR_VR融合驱动的综采工...智能监控关键技术研究与试验_王学文.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901459/AR_VR._.pdf)
 
   
   
@@ -185,6 +179,7 @@
 ## 深度学习
   <a name="sdxxc"/> 
   中文
+  
 1.  **[采用深度迁移学习与自适应加权的滚动轴承故障诊断_贾峰.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906993/_.pdf)
 
 
@@ -209,28 +204,83 @@
 1.  **[数据驱动的工业智能：现状与展望_任磊.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906999/_.pdf)
 
 
-1.  **
+1.  **[基于时序关联矩阵的高炉冶炼过程多重关联时延估计方法_蒋珂.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907048/_.pdf)
 
-1.  **
 
-1.  **
+1.  **[深度学习在流程工业过程数据建模中的应用_袁小锋.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907049/_.pdf)
 
-1.  **
 
-1.  **
+1.  **[有色金属工业智能模型库构建方法及应用_阳春华.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907050/_.pdf)
 
-1.  **
 
-1.  **
+1.  **[知识驱动的流程工业智能制造_桂卫华 (1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907051/_.1.pdf)
+
+
+1.  **[高炉铁水质量信息在线检测方法综述_蒋珂.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907053/_.pdf)
+
+
+1.  **[基于动态注意力深度迁移网络...高炉铁水硅含量在线预测方法_蒋珂.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907055/_.pdf)
+
+
+1.  **[动态条件下基于深度学习的锂电池容量估计_毕贵红.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907070/_.pdf)
+
 
   
+  1.  **[多状态影响下基于Bi-LS...络的锂电池剩余寿命预测方法_张浩.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907073/Bi-LS._.pdf)
+
+  
+  1.  **[基于LSTM的锂电池储能装置SOC与SOH联合预测_刘运鑫.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907074/LSTM.SOC.SOH._.pdf)
+
+  
+  1.  **[基于ZYNQ深度学习模型部署的锂电池健康预测_马贵君.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907075/ZYNQ._.pdf)
+
+  
+  1.  **[基于多尺度分解和深度学习的锂电池寿命预测_胡天中.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907076/_.pdf)
+
+  
+ 
+  
+  1.  **
   
   
   
   <a name="sdxxe"/> 
   英文
   
+ 1.  **[Forecasting of iron ore sintering quality index A latent variable method with deep inner structure(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907047/Forecasting.of.iron.ore.sintering.quality.index.A.latent.variable.method.with.deep.inner.structure.1.pdf)
+ 
+  1.  **[Closed-loop optimization of fast-charging protocols for batteries with machine learning..pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907059/Closed-loop.optimization.of.fast-charging.protocols.for.batteries.with.machine.learning.pdf)
+
   
+  1.  **[Data-driven prediction of battery cycle life before capacity degradation.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907060/Data-driven.prediction.of.battery.cycle.life.before.capacity.degradation.pdf)
+
+  
+  1.  **[Deep-Learning-Enabled Crack Detection and Analysis in Commercial Lithium-Ion Battery Cathodes..pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907061/Deep-Learning-Enabled.Crack.Detection.and.Analysis.in.Commercial.Lithium-Ion.Battery.Cathodes.pdf)
+
+  
+  1.  **[Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907063/Identifying.degradation.patterns.of.lithium.ion.batteries.from.impedance.spectroscopy.using.machine.learning.pdf)
+
+  
+  1.  **[s41467-020-15235-7.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907065/s41467-020-15235-7.pdf)
+
+  1.  **[s41467-022-29837-w.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907067/s41467-022-29837-w.pdf)
+
+  
+  1.  **[s41467-022-32422-w.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907068/s41467-022-32422-w.pdf)
+
+  
+  1.  **[s41467-022-32938-1.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907069/s41467-022-32938-1.pdf)
+
+  
+  1.  **
+  
+  1.  **
+  
+  1.  **
+  
+  1.  **
+  
+  1.  **
   
   
   
@@ -242,7 +292,32 @@
   <a name="ldcjsc"/> 
   中文
   
+ 1.  **[基于机器学习的锂离子电池健康状态分类与预测_高昊天.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907077/_.pdf)
+
   
+  1.  **[基于数据驱动的锂离子电池RUL预测综述_张若可.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907078/RUL._.pdf)
+
+  1.  **[基于信息熵与PSO-LST...的锂电池组健康状态估计方法_张朝龙.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907079/PSO-LST._.pdf)
+
+  
+  1.  **[基于序列贝叶斯更新的锂电池剩余寿命预测_赵斐.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907080/_.pdf)
+
+  
+  1.  **[锂离子电池状态估计机器学习方法综述_谢奕展.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907081/_.pdf)
+  
+  1.  **[模型与数据双驱动的锂电池状态精准估计_陈清炀.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907084/_.pdf)
+
+  
+  1.  **[深度学习在化学流程工业故障诊断的研究进展_陈红花.pdf]**[paper](**[paper]https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907085/_.pdf)
+
+  
+  1.  **[一种编解码器模型的锂离子电池健康状态估算_刘昊天.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907087/_.pdf)
+
+  
+  1.  **[一种基于模态分解和机器学习的锂电池寿命预测方法_肖浩逸.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907088/_.pdf)
+
+  
+  1.  **
   
   
    <a name="ldcjse"/>
