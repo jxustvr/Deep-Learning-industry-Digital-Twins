@@ -25,7 +25,7 @@
 
   -<sub>[中文](#ldcjsc)<sub/>
   
-    -<sub>[英文](#ldcjse)<sub/>
+  -<sub>[英文](#ldcjse)<sub/>
  
 1.  **[基于数字孪生的铣刀状态实时监控研究_刘明浩(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901308/_.1.pdf)
  
