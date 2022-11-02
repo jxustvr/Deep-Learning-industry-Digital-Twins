@@ -1,8 +1,9 @@
 # 论文资源存放地址
+
 #### 根据论文的方向和论文类型进行划分
 
 # 目录
-
+-----------------------------------------------------
 -[数字孪生](#szls)
 
 -<sub>[中文](#szlsc)<sub/>
@@ -31,11 +32,11 @@
   
   
 ## 数字孪生
-  
+ ---- 
  <a name="szlsc"/>
   
  中文
-  
+  ----
  
 1.  **[基于数字孪生的铣刀状态实时监控研究_刘明浩(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901308/_.1.pdf)
  
@@ -111,7 +112,7 @@
           
  <a name="szlse"/>
   英文
-
+---
   1.  **[1-s2.0-S0278612520301990-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901499/1-s2.0-S0278612520301990-main.pdf)
  
   
@@ -171,10 +172,10 @@
 <a name="xnxs"/>
   
 ## 虚拟现实
-  
+  ---
   <a name="xnxsc"/>
 中文
-  
+---  
 1.  **[AR_VR融合驱动的综采工...智能监控关键技术研究与试验_王学文.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901459/AR_VR._.pdf)
 
   
@@ -182,15 +183,19 @@
   
    <a name="xnxse"/>
 英文
-  
+
+  ---
   
   
   
  <a name="sdxx"/> 
   
 ## 深度学习
+---
   <a name="sdxxc"/> 
   中文
+  
+  ---
   
 1.  **[采用深度迁移学习与自适应加权的滚动轴承故障诊断_贾峰.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906993/_.pdf)
 
@@ -259,6 +264,8 @@
   <a name="sdxxe"/> 
   英文
   
+  ---
+  
  1.  **[Forecasting of iron ore sintering quality index A latent variable method with deep inner structure(1).pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907047/Forecasting.of.iron.ore.sintering.quality.index.A.latent.variable.method.with.deep.inner.structure.1.pdf)
  
   1.  **[Closed-loop optimization of fast-charging protocols for batteries with machine learning..pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907059/Closed-loop.optimization.of.fast-charging.protocols.for.batteries.with.machine.learning.pdf)
@@ -301,8 +308,11 @@
   <a name="ldcjs"/> 
   
  ## 电池技术
+ ---
   <a name="ldcjsc"/> 
   中文
+  
+---
   
  1.  **[基于机器学习的锂离子电池健康状态分类与预测_高昊天.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907077/_.pdf)
 
@@ -344,6 +354,8 @@
   
    <a name="ldcjse"/>
    英文
+   
+   ---
    
  1.  **[Digital twin for battery systems Cloud battery management system with online state-of-charge and state-of-health estimation.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917795/Digital.twin.for.battery.systems.Cloud.battery.management.system.with.online.state-of-charge.and.state-of-health.estimation.pdf)
 
