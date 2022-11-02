@@ -300,7 +300,7 @@
   
   <a name="ldcjs"/> 
   
- ## 锂电池技术
+ ## 电池技术
   <a name="ldcjsc"/> 
   中文
   
@@ -331,12 +331,25 @@
   
   1.  **[机器学习在固体氧化物燃料电...)电还原催化剂中的研究进展_许建兵.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907153/_.pdf)
 
-  
+ 1.  **[质子交换膜燃料电池系统数字孪生故障诊断模型研究_朱静.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917787/_.pdf)
+
+ 
+ 1.  **[面向智能化管理的数字孪生电池构建方法_杨世春.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917788/_.pdf)
+
+ 
+ 1.  **[空间电源数字孪生系统_朱凯.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917790/_.pdf)
+
+  1.  **[基于数值孪生模型的锂空气电池放电特性分析_张添昱.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917794/_.pdf)
+
   
    <a name="ldcjse"/>
    英文
-  
-  
-  
+   
+ 1.  **[Digital twin for battery systems Cloud battery management system with online state-of-charge and state-of-health estimation.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917795/Digital.twin.for.battery.systems.Cloud.battery.management.system.with.online.state-of-charge.and.state-of-health.estimation.pdf)
+
+1.  **[Battery digital twins Perspectives on the fusion of models, data and artificial intelligence for smart battery management systems.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917797/Battery.digital.twins.Perspectives.on.the.fusion.of.models.data.and.artificial.intelligence.for.smart.battery.management.systems.pdf)
+ 
+ 1.  **[1-s2.0-S1364032121011102-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917799/1-s2.0-S1364032121011102-main.pdf)
+
   
   
