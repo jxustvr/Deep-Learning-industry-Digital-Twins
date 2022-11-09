@@ -176,6 +176,8 @@
   <a name="xnxsc"/>
 中文
 ---  
+  
+  
 1.  **[AR_VR融合驱动的综采工...智能监控关键技术研究与试验_王学文.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901459/AR_VR._.pdf)
 
   
