@@ -257,7 +257,8 @@
   
  
   
-  1.  **
+  1.  **[超参数优化算法.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9967647/default.pdf)
+
   
   
   
@@ -363,5 +364,6 @@
  
  1.  **[1-s2.0-S1364032121011102-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917799/1-s2.0-S1364032121011102-main.pdf)
 
-  
+  1.  **[一种用于电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9967641/default.pdf)
+
   
