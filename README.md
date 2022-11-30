@@ -30,6 +30,7 @@
   
   <a name="szls"/>
   
+-[论文精读](#lwjd)  
   
 ## 数字孪生
  ---- 
@@ -367,8 +368,11 @@
  1.  **[1-s2.0-S1364032121011102-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917799/1-s2.0-S1364032121011102-main.pdf)
 
   1. 
-##锂电池精读
-
+  
+##论文精读
+  
+<a name="szlsc"/>
+  
  1.  **[一种用于电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9967641/default.pdf)  对应ppt **[电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113306/default.pdf)
 
  1. **[基于注意力的深度学习方法的机器剩余使用寿命预测.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113307/default.pdf)
