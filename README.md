@@ -374,5 +374,5 @@
  1. **[基于注意力的深度学习方法的机器剩余使用寿命预测.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113307/default.pdf)
  1. **[超参数优化算法.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113340/default.pdf)对应ppt **[自动超参数优化.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113315/default.pdf)
 
-
+ 1. **[多状态影响下基于Bi⁃LSTM网络的锂电池剩余寿命预测方法.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/10123000/Bi.LSTM.pdf)对应ppt    **[多状态影响下基于Bi-LS...络的锂电池剩余寿命预测方法_张浩(1).pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/10123001/Bi-LS._.1.pdf)
   
