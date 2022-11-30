@@ -371,7 +371,7 @@
   
 ##论文精读
   
-<a name="szlsc"/>
+<a name="lwjd"/>
   
  1.  **[一种用于电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9967641/default.pdf)  对应ppt **[电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113306/default.pdf)
 
