@@ -6,9 +6,6 @@
   * **Ch02安装**
     * [安装](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch02_Installation/INSTALL.md)
 
-  * **Ch03介绍**
-    * [介绍](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch03_Introduction/Introduction.ipynb)
-
   * **Ch04 The Preliminaries: A Crashcourse**
     * 4.1 [数据操作](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Data_Manipulation.ipynb)
     * 4.2 [线性代数](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Linear_Algebra.ipynb)
