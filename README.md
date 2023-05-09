@@ -112,7 +112,23 @@
 
 
 
+# 锂电池寿命预测相关算法
+* 1.[基于胶囊网络和迁移学习的锂电池新型图像快速RUL预测.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427653/RUL.pdf)   
+ [Novel_Image-Based_Rapid_RUL_Prediction_for_Li-Ion_Batteries_Using_a_Capsule_Network_and_Transfer_Learning.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427648/Novel_Image-Based_Rapid_RUL_Prediction_for_Li-Ion_Batteries_Using_a_Capsule_Network_and_Transfer_Learning.pdf)
+* 2.[使用历史状态和未来负载信息与AM-seq2seq模型对锂离子电池进行SOH预测 (2).pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427667/AM-seq2seq.SOH.2.pdf)
+* 3.[（论文）基于图像和健康指标的迁移学习杂交预测电池RUL.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427672/RUL.pdf)
+[基于图像和健康指标的迁移学习杂交预测电池RUL1.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427673/RUL1.pdf)
+* 4.[使用历史状态和未来负载信息与AM-seq2seq模型对锂离子电池进行SOH预测 (2).pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427675/AM-seq2seq.SOH.2.pdf)
+* 5.[多状态影响下基于Bi⁃LSTM网络的锂电池剩余寿命预测方法.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427678/Bi.LSTM.pdf)
+[多状态影响下基于Bi⁃LSTM网络的锂电池剩余寿命预测方法总结.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427679/Bi.LSTM.pdf)
+* 6.[PyEMD.zip](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427681/PyEMD.zip).(code)[一种基于模态分解和机器学习的锂电池寿命预测方法_肖浩逸.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427683/_.pdf)
+* 7.[电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427697/default.pdf)
+[基于注意力的深度学习方法的机器剩余使用寿命预测.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427698/default.pdf)
 
+
+
+
+ 
 # 论文资源
 
 # 目录
