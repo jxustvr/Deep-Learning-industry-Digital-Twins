@@ -392,29 +392,18 @@
   1.  **[Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907063/Identifying.degradation.patterns.of.lithium.ion.batteries.from.impedance.spectroscopy.using.machine.learning.pdf)
 
   
-  1.  **[s41467-020-15235-7.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907065/s41467-020-15235-7.pdf)
+  1.  **[Identifying degradation patterns of lithium ionbatteries from impedance spectroscopy usingmachine learning.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907065/s41467-020-15235-7.pdf)
 
-  1.  **[s41467-022-29837-w.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907067/s41467-022-29837-w.pdf)
-
-  
-  1.  **[s41467-022-32422-w.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907068/s41467-022-32422-w.pdf)
+  1.  **[Data-driven capacity estimation of commercial lithium-ion batteries from voltage relaxation.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907067/s41467-022-29837-w.pdf)
 
   
-  1.  **[s41467-022-32938-1.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907069/s41467-022-32938-1.pdf)
+  1.  **[Impedance-based forecasting of lithium-ion battery performance amid uneven usage.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907068/s41467-022-32422-w.pdf)
 
   
-  1.  **
-  
-  1.  **
-  
-  1.  **
-  
-  1.  **
-  
-  1.  **
-  
-  
-  
+  1.  **[Autonomous optimization of non-aqueous Li-ion battery electrolytesvia roboticexperimentation and machine learning
+coupling.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907069/s41467-022-32938-1.pdf)
+
+
   
   
   <a name="ldcjs"/> 
