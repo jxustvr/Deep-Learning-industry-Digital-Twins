@@ -139,11 +139,6 @@
 
 -<sub>[英文](#szlse)<sub/>
 
--[虚拟现实](#xnxs)
-
-  -<sub>[中文](#xnxsc)<sub/>
-  
-  -<sub>[英文](#xnxse)<sub/>
 
 -[深度学习](#sdxx)
 
@@ -296,22 +291,6 @@
 1.  **[Detection of precursors of combustion instability using convolutional recurrent neural networks.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906990/Detection.of.precursors.of.combustion.instability.using.convolutional.recurrent.neural.networks.pdf)
 
 
-1.  **
-  
-  
-<a name="xnxs"/>
-  
-## 虚拟现实
-  ---
-  <a name="xnxsc"/>
-中文
----  
-  
-  
-1.  **[AR_VR融合驱动的综采工...智能监控关键技术研究与试验_王学文.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901459/AR_VR._.pdf)
-
-  
-  
   
    <a name="xnxse"/>
 英文
@@ -323,7 +302,7 @@
  <a name="sdxx"/> 
   
 ## 深度学习
----
+ 
   <a name="sdxxc"/> 
   中文
   
@@ -441,7 +420,7 @@
   <a name="ldcjs"/> 
   
  ## 电池技术
- ---
+
   <a name="ldcjsc"/> 
   中文
   
@@ -498,7 +477,7 @@
 
   1. 
   
-##论文精读
+## 论文精读
   
 <a name="lwjd"/>
   
