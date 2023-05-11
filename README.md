@@ -238,31 +238,31 @@
  <a name="szlse"/>
   英文
 ---
-  1.  **[1-s2.0-S0278612520301990-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901499/1-s2.0-S0278612520301990-main.pdf)
+  1.  **[Digital twin enhanced fault prediction for the autoclave with insufficient data.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901499/1-s2.0-S0278612520301990-main.pdf)
  
   
-1.  **[1-s2.0-S0278612521001199-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901501/1-s2.0-S0278612521001199-main.pdf)
+
  
   
-1.  **[1-s2.0-S0278612521002284-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901503/1-s2.0-S0278612521002284-main.pdf)
+1.  **[Digital twin and cloud-side-end collaboration for intelligent batterty management system.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901503/1-s2.0-S0278612521002284-main.pdf)
 
   
-  1.  **[1-s2.0-S0278612521002570-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901506/1-s2.0-S0278612521002570-main.pdf)
+  1.  **[Establishing a reliable mechanism model of the digital twin machining system: An adaptive evaluatioon network apppriach.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901506/1-s2.0-S0278612521002570-main.pdf)
 
   
-  1.  **[1-s2.0-S0278612522000413-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901500/1-s2.0-S0278612522000413-main.pdf)
+  1.  **[A digital twin dosng system for iron reverse flotationDigital twin modeling-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901500/1-s2.0-S0278612522000413-main.pdf)
  
   
-  1.  **[1-s2.0-S0278612522001108-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901504/1-s2.0-S0278612522001108-main.pdf)
+  1.  **[Digital twin modeling.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901504/1-s2.0-S0278612522001108-main.pdf)
  
   
-  1.  **[1-s2.0-S0278612522001121-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901507/1-s2.0-S0278612522001121-main.pdf)
+  1.  **[Digital Twin Technology--A bibliometric study of top research articles based on Local Citataion Scroe.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901507/1-s2.0-S0278612522001121-main.pdf)
  
   
-  1.  **[1-s2.0-S0967066122001307-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901509/1-s2.0-S0967066122001307-main.pdf)
+  1.  **[A digital twin-driven trajectory tracking control method of a lower-limbexoskeleton.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901509/1-s2.0-S0967066122001307-main.pdf)
   
   
-  1.  **[6c897466-e8fc-414b-a81a-8c9e2f914d60_17632_-_zhiwei_shen.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901510/6c897466-e8fc-414b-a81a-8c9e2f914d60_17632_-_zhiwei_shen.pdf)
+  1.  **[Artificial intelligence and digital twins in power systems Trends, synergies and opportunities.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901510/6c897466-e8fc-414b-a81a-8c9e2f914d60_17632_-_zhiwei_shen.pdf)
  
   
   1.  **[Intelligentdigital twins and the development and management of complex systems.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906914/Intelligentdigital.twins.and.the.development.and.management.of.complex.systems.pdf)
