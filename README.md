@@ -1,20 +1,144 @@
-# 论文资源存放地址
+# 基础知识
+<p align="center">
+ 
+## 章节
 
-#### 根据论文的方向和论文类型进行划分
+  * **Ch02安装**
+    * [安装](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch02_Installation/INSTALL.md)
+
+  * **Ch04 The Preliminaries: A Crashcourse**
+    * 4.1 [数据操作](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Data_Manipulation.ipynb)
+    * 4.2 [线性代数](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Linear_Algebra.ipynb)
+    * 4.3 [自动微分](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Automatic_Differentiation.ipynb)
+    * 4.4 [概率与统计](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Probability_and_Statistics.ipynb)
+    * 4.5 [朴素贝叶斯分类](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Naive_Bayes_Classification.ipynb)
+    * 4.6 [文档](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch04_The_Preliminaries_A_Crashcourse/Documentation.ipynb)
+    
+  * **Ch05  线性神经网络**
+    * 5.1 [线性回归](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Linear_Regression.ipynb)
+    * 5.2 [零开始的线性回归实现](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Linear_Regression_Implementation_from_Scratch.ipynb)
+    * 5.3 [线性回归的简洁实现](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Concise_Implementation_of_Linear_Regression.ipynb)
+    * 5.4 [Softmax回归](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Softmax_Regression.ipynb)
+    * 5.5 [图像分类数据（Fashion-MNIST）)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Image_Classification_Data(Fashion-MNIST).ipynb)
+    * 5.6 [从零开始实现Softmax回归](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Implementation_of_Softmax_Regression_from_Scratch.ipynb)
+    * 5.7 [Softmax回归的简洁实现](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch05_Linear_Neural_Networks/Concise_Implementation_of_Softmax_Regression.ipynb)
+
+  * **Ch06 多层感知器**
+    * 6.1 [Multilayer Perceptron](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Multilayer_Perceptron.ipynb)
+    * 6.2 [Implementation of Multilayer Perceptron from Scratch](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Implementation_of_Multilayer_Perceptron_from_Scratch.ipynb)
+    * 6.3 [Concise Implementation of Multilayer Perceptron](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Concise_Implementation_of_Multilayer_Perceptron.ipynb)
+    * 6.4 [Model Selection Underfitting and Overfitting](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Model_Selection_Underfitting_and_Overfitting.ipynb)
+    * 6.5 [Weight Decay](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Weight_Decay.ipynb)
+    * 6.6 [Dropout](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Dropout.ipynb)
+    * 6.7 [Forward Propagation Backward Propagation and Computational Graphs](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Forward_Propagation_Backward_Propagation_and_Computational_Graphs.ipynb)
+    * 6.8 [Numerical Stability and Initialization](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Numerical_Stability_and_Initialization.ipynb)
+    * 6.9 [Considering the Environment](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Considering_The_Environment.ipynb)
+    * 6.10 [Predicting House Prices on Kaggle](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch06_Multilayer_Perceptrons/Predicting_House_Prices_on_Kaggle.ipynb)
+
+  * **Ch07 深度学习计算**
+    * 7.1 [Layers and Blocks](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/Layers_and_Blocks.ipynb)
+    * 7.2 [Parameter Management](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/Parameter_Management.ipynb)
+    * 7.3 [Deferred Initialization](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/Deferred_Initialization.ipynb)
+    * 7.4 [Custom Layers](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/Custom_Layers.ipynb)
+    * 7.5 [File I/O](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/File_I_O.ipynb)
+    * 7.6 [GPUs](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/GPUs.ipynb)
+
+  * **Ch08 卷积神经网络**
+    * 8.1 [From Dense Layers to Convolutions](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch08_Convolutional_Neural_Networks/From_Dense_Layers_to_Convolutions.ipynb)
+    * 8.2 [Convolutions for Images](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch08_Convolutional_Neural_Networks/Convolutions_For_Images.ipynb)
+    * 8.3 [Padding and Stride](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch08_Convolutional_Neural_Networks/Padding_and_Stride.ipynb)
+    * 8.4 [Multiple Input and Output Channels](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch08_Convolutional_Neural_Networks/Multiple_Input_and_Output_Channels.ipynb)
+    * 8.5 [Pooling](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch08_Convolutional_Neural_Networks/Pooling.ipynb)
+    * 8.6 [Convolutional Neural Networks (LeNet)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch08_Convolutional_Neural_Networks/Convolutional_Neural_Networks(LeNet).ipynb)
+
+  * **Ch09 现代卷积网络**
+    * 9.1 [Deep Convolutional Neural Networks (AlexNet)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch09_Modern_Convolutional_Networks/AlexNet.ipynb) 
+    * 9.2 [Networks Using Blocks (VGG)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch09_Modern_Convolutional_Networks/VGG.ipynb)
+    * 9.3 [Network in Network (NiN)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch09_Modern_Convolutional_Networks/Network_in_Network(NiN).ipynb) 
+    * 9.4 [Networks with Parallel Concatenations (GoogLeNet)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch09_Modern_Convolutional_Networks/Networks_with_Parallel_Concatenations_(GoogLeNet).ipynb) 
+    * 9.5 [Batch Normalization](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch09_Modern_Convolutional_Networks/Batch_Normalization.ipynb)
+    * 9.6 [Residual Networks (ResNet)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch09_Modern_Convolutional_Networks/Residual_Networks_(ResNet).ipynb) 
+    * 9.7 [Densely Connected Networks (DenseNet)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch09_Modern_Convolutional_Networks/Densely_Connected_Networks_(DenseNet).ipynb) 
+
+  * **Ch10 循环神经网络**
+    * 10.1 [Sequence Models](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Sequence_Models.ipynb)
+    * 10.2 [Language Models](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Language_Models.ipynb)
+    * 10.3 [Recurrent Neural Networks](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Recurrent_Neural_Networks.ipynb)
+    * 10.4 [Text Preprocessing](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Text_Preprocessing.ipynb)
+    * 10.5 [Implementation of Recurrent Neural Networks from Scratch](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Implementation_of_Recurrent_Neural_Networks_from_Scratch.ipynb)
+    * 10.6 [Concise Implementation of Recurrent Neural Networks](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Concise_Implementation_of_Recurrent_Neural_Networks.ipynb)
+    * 10.7 [Backpropagation Through Time](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Backpropagation_Through_Time.ipynb)
+    * 10.8 [Gated Recurrent Units (GRU)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Gated_Recurrent_Units.ipynb)
+    * 10.9 [Long Short Term Memory (LSTM)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Long_Short_Term_Memory.ipynb)
+    * 10.10 [Deep Recurrent Neural Networks](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Deep_Recurrent_Neural_Networks.ipynb)
+    * 10.11 Bidirectional Recurrent Neural Networks
+    * 10.12 [Machine Translation and DataSets](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Machine_Translation_and_Data_Sets.ipynb)
+    * 10.13 [Encoder-Decoder Architecture](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Encoder-Decoder_Architecture.ipynb) 
+    * 10.14 [Sequence to Sequence](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Sequence_to_Sequence.ipynb)
+    * 10.15 [Beam Search](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch10_Recurrent_Neural_Networks/Beam_Search.ipynb)
+
+  * **Ch11注意力机制**
+    * 11.1 [Attention Mechanism](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch11_Attention_Mechanism/Attention_Mechanism.ipynb)
+    * 11.2 Sequence to Sequence with Attention Mechanism
+    * 11.3 Transformer
+
+  * **Ch12  优化算法**
+    * 12.1 [Optimization and Deep Learning](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch12_Optimization_Algorithms/Optimization_And_Deep_Learning.ipynb)
+    * 12.2 [Convexity](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch12_Optimization_Algorithms/Convexity.ipynb)
+    * 12.3 [Gradient Descent](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch12_Optimization_Algorithms/Gradient_Descent.ipynb)
+    * 12.4 [Stochastic Gradient Descent](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch12_Optimization_Algorithms/Stochastic_Gradient_Descent.ipynb)
+    * 12.5 [Mini-batch Stochastic Gradient Descent](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch12_Optimization_Algorithms/Mini-batch_Stochastic_Gradient_Descent.ipynb)
+    * 12.6 [Momentum](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch12_Optimization_Algorithms/Momentum.ipynb)
+    * 12.7 Adagrad
+    * 12.8 [RMSProp](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch12_Optimization_Algorithms/RMSProp.ipynb)
+    * 12.9 Adadelta
+    * 12.10 Adam
+  * **Ch14 计算机视觉**
+    * 14.1 Image Augmentation
+    * 14.2 Fine Tuning
+    * 14.3 [Object Detection and Bounding Boxes](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Object_Detection_and_Bounding_Boxes.ipynb)
+    * 14.4 [Anchor Boxes](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Anchor_Boxes.ipynb)
+    * 14.5 [Multiscale Object Detection](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Multiscale_Object_Detection.ipynb)
+    * 14.6 [Object Detection Data Set (Pikachu)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Object_Detection_Data_Set.ipynb)
+    * 14.7 [Single Shot Multibox Detection (SSD)](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Single_Shot_Multibox_Detection.ipynb)
+    * 14.8 Region-based CNNs (R-CNNs)
+    * 14.9 Semantic Segmentation and Data Sets
+    * 14.10 Transposed Convolution
+    * 14.11 Fully Convolutional Networks (FCN)
+    * 14.12 [Neural Style Transfer](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch14_Computer_Vision/Neural_Style_Transfer.ipynb)
+    * 14.13 Image Classification (CIFAR-10) on Kaggle
+    * 14.14 Dog Breed Identification (ImageNet Dogs) on Kaggle
+
+
+
+
+# 锂电池寿命预测相关算法
+* 1.[基于胶囊网络和迁移学习的锂电池新型图像快速RUL预测.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427653/RUL.pdf)   
+ [Novel_Image-Based_Rapid_RUL_Prediction_for_Li-Ion_Batteries_Using_a_Capsule_Network_and_Transfer_Learning.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427648/Novel_Image-Based_Rapid_RUL_Prediction_for_Li-Ion_Batteries_Using_a_Capsule_Network_and_Transfer_Learning.pdf)
+* 2.[使用历史状态和未来负载信息与AM-seq2seq模型对锂离子电池进行SOH预测 (2).pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427667/AM-seq2seq.SOH.2.pdf)
+* 3.[（论文）基于图像和健康指标的迁移学习杂交预测电池RUL.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427672/RUL.pdf)
+[基于图像和健康指标的迁移学习杂交预测电池RUL1.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427673/RUL1.pdf)
+* 4.[使用历史状态和未来负载信息与AM-seq2seq模型对锂离子电池进行SOH预测 (2).pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427675/AM-seq2seq.SOH.2.pdf)
+* 5.[多状态影响下基于Bi⁃LSTM网络的锂电池剩余寿命预测方法.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427678/Bi.LSTM.pdf)
+[多状态影响下基于Bi⁃LSTM网络的锂电池剩余寿命预测方法总结.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427679/Bi.LSTM.pdf)
+* 6.[PyEMD.zip](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427681/PyEMD.zip).(code)[一种基于模态分解和机器学习的锂电池寿命预测方法_肖浩逸.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427683/_.pdf)
+* 7.[电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427697/default.pdf)
+[基于注意力的深度学习方法的机器剩余使用寿命预测.pdf](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/11427698/default.pdf)
+
+
+
+
+ 
+# 论文资源
 
 # 目录
 -----------------------------------------------------
--[数字孪生](#szls)
+## * **[数字孪生](#szls)**
 
 -<sub>[中文](#szlsc)<sub/>
 
 -<sub>[英文](#szlse)<sub/>
 
--[虚拟现实](#xnxs)
-
-  -<sub>[中文](#xnxsc)<sub/>
-  
-  -<sub>[英文](#xnxse)<sub/>
 
 -[深度学习](#sdxx)
 
@@ -22,7 +146,7 @@
 
   -<sub>[英文](#sdxxe)<sub/>
 
--[锂电池技术](#ldcjs)
+## * **[锂电池技术](#ldcjs)**
 
   -<sub>[中文](#ldcjsc)<sub/>
   
@@ -30,8 +154,9 @@
   
   <a name="szls"/>
   
+-[论文精读](#lwjd)  
   
-## 数字孪生
+## 数字孪生工业应用
  ---- 
  <a name="szlsc"/>
   
@@ -113,31 +238,31 @@
  <a name="szlse"/>
   英文
 ---
-  1.  **[1-s2.0-S0278612520301990-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901499/1-s2.0-S0278612520301990-main.pdf)
+  1.  **[Digital twin enhanced fault prediction for the autoclave with insufficient data.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901499/1-s2.0-S0278612520301990-main.pdf)
  
   
-1.  **[1-s2.0-S0278612521001199-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901501/1-s2.0-S0278612521001199-main.pdf)
+
  
   
-1.  **[1-s2.0-S0278612521002284-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901503/1-s2.0-S0278612521002284-main.pdf)
+1.  **[Digital twin and cloud-side-end collaboration for intelligent batterty management system.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901503/1-s2.0-S0278612521002284-main.pdf)
 
   
-  1.  **[1-s2.0-S0278612521002570-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901506/1-s2.0-S0278612521002570-main.pdf)
+  1.  **[Establishing a reliable mechanism model of the digital twin machining system: An adaptive evaluatioon network apppriach.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901506/1-s2.0-S0278612521002570-main.pdf)
 
   
-  1.  **[1-s2.0-S0278612522000413-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901500/1-s2.0-S0278612522000413-main.pdf)
+  1.  **[A digital twin dosng system for iron reverse flotationDigital twin modeling-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901500/1-s2.0-S0278612522000413-main.pdf)
  
   
-  1.  **[1-s2.0-S0278612522001108-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901504/1-s2.0-S0278612522001108-main.pdf)
+  1.  **[Digital twin modeling.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901504/1-s2.0-S0278612522001108-main.pdf)
  
   
-  1.  **[1-s2.0-S0278612522001121-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901507/1-s2.0-S0278612522001121-main.pdf)
+  1.  **[Digital Twin Technology--A bibliometric study of top research articles based on Local Citataion Scroe.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901507/1-s2.0-S0278612522001121-main.pdf)
  
   
-  1.  **[1-s2.0-S0967066122001307-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901509/1-s2.0-S0967066122001307-main.pdf)
+  1.  **[A digital twin-driven trajectory tracking control method of a lower-limbexoskeleton.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901509/1-s2.0-S0967066122001307-main.pdf)
   
   
-  1.  **[6c897466-e8fc-414b-a81a-8c9e2f914d60_17632_-_zhiwei_shen.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901510/6c897466-e8fc-414b-a81a-8c9e2f914d60_17632_-_zhiwei_shen.pdf)
+  1.  **[Artificial intelligence and digital twins in power systems Trends, synergies and opportunities.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901510/6c897466-e8fc-414b-a81a-8c9e2f914d60_17632_-_zhiwei_shen.pdf)
  
   
   1.  **[Intelligentdigital twins and the development and management of complex systems.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906914/Intelligentdigital.twins.and.the.development.and.management.of.complex.systems.pdf)
@@ -166,22 +291,6 @@
 1.  **[Detection of precursors of combustion instability using convolutional recurrent neural networks.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906990/Detection.of.precursors.of.combustion.instability.using.convolutional.recurrent.neural.networks.pdf)
 
 
-1.  **
-  
-  
-<a name="xnxs"/>
-  
-## 虚拟现实
-  ---
-  <a name="xnxsc"/>
-中文
----  
-  
-  
-1.  **[AR_VR融合驱动的综采工...智能监控关键技术研究与试验_王学文.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9901459/AR_VR._.pdf)
-
-  
-  
   
    <a name="xnxse"/>
 英文
@@ -193,7 +302,7 @@
  <a name="sdxx"/> 
   
 ## 深度学习
----
+ 
   <a name="sdxxc"/> 
   中文
   
@@ -283,35 +392,24 @@
   1.  **[Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907063/Identifying.degradation.patterns.of.lithium.ion.batteries.from.impedance.spectroscopy.using.machine.learning.pdf)
 
   
-  1.  **[s41467-020-15235-7.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907065/s41467-020-15235-7.pdf)
+  1.  **[Identifying degradation patterns of lithium ionbatteries from impedance spectroscopy usingmachine learning.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907065/s41467-020-15235-7.pdf)
 
-  1.  **[s41467-022-29837-w.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907067/s41467-022-29837-w.pdf)
-
-  
-  1.  **[s41467-022-32422-w.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907068/s41467-022-32422-w.pdf)
+  1.  **[Data-driven capacity estimation of commercial lithium-ion batteries from voltage relaxation.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907067/s41467-022-29837-w.pdf)
 
   
-  1.  **[s41467-022-32938-1.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907069/s41467-022-32938-1.pdf)
+  1.  **[Impedance-based forecasting of lithium-ion battery performance amid uneven usage.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907068/s41467-022-32422-w.pdf)
 
   
-  1.  **
-  
-  1.  **
-  
-  1.  **
-  
-  1.  **
-  
-  1.  **
-  
-  
-  
+  1.  **[Autonomous optimization of non-aqueous Li-ion battery electrolytesvia roboticexperimentation and machine learning
+coupling.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9907069/s41467-022-32938-1.pdf)
+
+
   
   
   <a name="ldcjs"/> 
   
  ## 电池技术
- ---
+
   <a name="ldcjsc"/> 
   中文
   
@@ -366,6 +464,16 @@
  
  1.  **[1-s2.0-S1364032121011102-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917799/1-s2.0-S1364032121011102-main.pdf)
 
-  1.  **[一种用于电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9967641/default.pdf)
+  1. 
+  
+## 论文精读
+  
+<a name="lwjd"/>
+  
+ 1.  **[一种用于电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9967641/default.pdf)  对应ppt **[电动汽车锂电池健康状态估计和剩余使用寿命预测的端到端神经网络框架.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113306/default.pdf)
 
+ 1. **[基于注意力的深度学习方法的机器剩余使用寿命预测.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113307/default.pdf)
+ 1. **[超参数优化算法.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113340/default.pdf)对应ppt **[自动超参数优化.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins/files/10113315/default.pdf)
+
+ 1. **[多状态影响下基于Bi⁃LSTM网络的锂电池剩余寿命预测方法.pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/10123000/Bi.LSTM.pdf)对应ppt    **[多状态影响下基于Bi-LS...络的锂电池剩余寿命预测方法_张浩(1).pdf]**[paper](https://github.com/GulttonyT3/Deep-Learning-industry-Digital-Twins-/files/10123001/Bi-LS._.1.pdf)
   
