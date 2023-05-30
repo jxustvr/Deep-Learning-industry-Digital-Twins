@@ -464,7 +464,8 @@ coupling.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital
  
  1.  **[1-s2.0-S1364032121011102-main.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9917799/1-s2.0-S1364032121011102-main.pdf)
 
-  1. 
+  1. **[容量退化前电池循环寿命的数据驱动预测.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/11594835/default.pdf)
+
   
 ## 论文精读
   
